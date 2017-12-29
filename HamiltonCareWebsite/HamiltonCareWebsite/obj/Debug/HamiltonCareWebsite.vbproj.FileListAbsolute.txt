@@ -1,0 +1,13 @@
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\bin\HamiltonCareWebsite.dll.config
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\bin\HamiltonCareWebsite.dll
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\bin\HamiltonCareWebsite.pdb
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\bin\HamiltonCareWebsite.xml
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\obj\Debug\HamiltonCareWebsite.vbprojResolveAssemblyReference.cache
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\obj\Debug\HamiltonCareWebsite.Resources.resources
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\obj\Debug\HamiltonCareWebsite.vbproj.GenerateResource.Cache
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\obj\Debug\HamiltonCareWebsite.vbproj.CoreCompileInputs.cache
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\obj\Debug\HamiltonCareWebsite.dll
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\obj\Debug\HamiltonCareWebsite.xml
+C:\Users\joelpickin\Source\Repos\Care-Home-Website\HamiltonCareWebsite\HamiltonCareWebsite\obj\Debug\HamiltonCareWebsite.pdb
